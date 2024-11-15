@@ -1,9 +1,9 @@
-<div style="text-align:center"><img src="https://github.com/t3chn0m4g3/h0neytr4p/blob/main/logo.png?raw=true" /></div>
+<div style="text-align:center"><img src="https://github.com/cyb3rhq/h0neytr4p/blob/main/logo.png?raw=true" /></div>
 
 
-# Adjusted for T-Pot
+# Adjusted for Cyberpot
 
-### This fork of [h0neytr4p](https://github.com/pbssubhash/h0neytr4p) was revised for T-Pot with the following features:
+### This fork of [h0neytr4p](https://github.com/pbssubhash/h0neytr4p) was revised for Cyberpot with the following features:
 - Add Docker support (Dockerfile, docker-compose.yml)
 - Use a single logfile instead of two
 - Log to JSON instead of CSV
@@ -34,7 +34,7 @@ h0neytr4p was primarly built to remove the pain of creating a vulnerable applica
 ## Run with docker 
 
 ```
-git clone https://github.com/t3chn0m4g3/h0neytr4p
+git clone https://github.com/cyb3rhq/h0neytr4p
 cd h0neytr4p
 docker compose build
 docker compose up
@@ -52,7 +52,7 @@ docker compose up
                                          \______/                                |__/
  Built by a Red team, with <3
  Built by zer0p1k4chu & g0dsky (https://github.com/pbssubhash/h0neytr4p)
- Adjusted for T-Pot by t3chn0m4g3 (https://github.com/t3chn0m4g3/h0neytr4p)
+ Adjusted for Cyberpot by cyb3rhq (https://github.com/cyb3rhq/h0neytr4p)
  	
  [ Traps folder            ] -> [ traps/                        ]
  [ Logfile                 ] -> [ log/log.json                  ]
