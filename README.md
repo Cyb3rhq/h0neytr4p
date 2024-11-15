@@ -1,9 +1,9 @@
 <div style="text-align:center"><img src="https://github.com/cyb3rhq/h0neytr4p/blob/main/logo.png?raw=true" /></div>
 
 
-# Adjusted for Cyberpot
+# Adjusted for CyberPOT
 
-### This fork of [h0neytr4p](https://github.com/pbssubhash/h0neytr4p) was revised for Cyberpot with the following features:
+### This fork of [h0neytr4p](https://github.com/pbssubhash/h0neytr4p) was revised for CyberPOT with the following features:
 - Add Docker support (Dockerfile, docker-compose.yml)
 - Use a single logfile instead of two
 - Log to JSON instead of CSV
@@ -52,7 +52,7 @@ docker compose up
                                          \______/                                |__/
  Built by a Red team, with <3
  Built by zer0p1k4chu & g0dsky (https://github.com/pbssubhash/h0neytr4p)
- Adjusted for Cyberpot by cyb3rhq (https://github.com/cyb3rhq/h0neytr4p)
+ Adjusted for CyberPOT by cyb3rhq (https://github.com/cyb3rhq/h0neytr4p)
  	
  [ Traps folder            ] -> [ traps/                        ]
  [ Logfile                 ] -> [ log/log.json                  ]
