@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"sync"
 
-	h0neytr4p "github.com/t3chn0m4g3/h0neytr4p"
+	h0neytr4p "github.com/Cyb3rhq/h0neytr4p"
 )
 
 func PrintBanner() {
@@ -25,7 +25,7 @@ func PrintBanner() {
                                         \______/                                |__/      
 Built by a Red team, with <3
 Built by zer0p1k4chu & g0dsky (https://github.com/pbssubhash/h0neytr4p)
-Adjusted for T-Pot by t3chn0m4g3 (https://github.com/t3chn0m4g3/h0neytr4p)
+Adjusted for cyberpot by Cyb3rhq (https://github.com/Cyb3rhq/h0neytr4p)
 	`)
 }
 
